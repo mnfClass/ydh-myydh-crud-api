@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file.
 
+### [6.3.12](https://github.com/Fdawgs/ydh-myydh-crud-api/compare/v6.3.11...v6.3.12) (2022-01-12)
+
+
+### Bug Fixes
+
+* **routes/docs:** resolve `token "definitions" does not exist` error ([#604](https://github.com/Fdawgs/ydh-myydh-crud-api/issues/604)) ([cac071e](https://github.com/Fdawgs/ydh-myydh-crud-api/commit/cac071e234489a252db455bafb3057b3373f6f02))
+
+
+### Improvements
+
+* **server:** reorder plugin registers ([2e41fcf](https://github.com/Fdawgs/ydh-myydh-crud-api/commit/2e41fcf309d7da3a53c4103ca750838a946484db))
+
+
+### Dependencies
+
+* **deps-dev:** pin faker version ([b262584](https://github.com/Fdawgs/ydh-myydh-crud-api/commit/b2625846eec221224e1af6951cae58f6ab7b19a8))
+
+
+### Miscellaneous
+
+* **config:** update doc page description ([#607](https://github.com/Fdawgs/ydh-myydh-crud-api/issues/607)) ([9f9168f](https://github.com/Fdawgs/ydh-myydh-crud-api/commit/9f9168f8b26b03101b617aad309fe04143489283))
+
 ### [6.3.11](https://github.com/Fdawgs/ydh-myydh-crud-api/compare/v6.3.10...v6.3.11) (2022-01-10)
 
 
